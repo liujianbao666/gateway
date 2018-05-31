@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gatewayweb:war">
+    <output-path>$PROJECT_DIR$/../gatewayweb/target</output-path>
+    <root id="archive" name="gatewayweb.war">
+      <element id="artifact" artifact-name="gatewayweb:war exploded" />
+    </root>
+  </artifact>
+</component>
